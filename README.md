@@ -105,3 +105,4 @@ Improvements are welcome. Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) befor
 ## License
 
 No open-source license has been selected. The repository is public for review and collaboration, but publication alone does not grant permission to copy, modify, manufacture, or redistribute the design. The owner can add an OSI/OSHWA-compatible license later after choosing the intended terms.
+
